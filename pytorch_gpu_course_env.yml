@@ -1,0 +1,14 @@
+name: pytorchenv_gpu
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - plotly
+  - pip
+  - python
+  - jupyter
+
+    
